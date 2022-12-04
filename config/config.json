@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "postgres",
+		"password": "Ravenna9!",
+		"database": "momintor_db_dev",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	},
+	"test": {
+		"username": "momintor",
+		"password": "",
+		"database": "momintor_db_test",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	},
+	"production": {
+		"username": "spirovanni",
+		"password": "Ravenna9!",
+		"database": "momintor_database_production",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
+	}
+}
